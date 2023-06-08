@@ -370,6 +370,10 @@ text-transform: uppercase;
 }
 
 
+@media (max-width:1440px) {
+    .third .img_block3{
+        width: 37.2% ;
+    }
 @media (max-width:651px) {
     body {
         background: url(./img/banner.png);
